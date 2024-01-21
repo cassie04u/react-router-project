@@ -1,0 +1,74 @@
+{
+  "book": [
+    {
+      "id": "1",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "slug": "the-hobbit",
+      "description": "A fantasy novel that follows the journey of Bilbo Baggins as he helps a group of dwarves reclaim their homeland from a dragon."
+    },
+    {
+      "id": "2",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "slug": "to-kill-a-mockingbird",
+      "description": "A classic novel exploring racial injustice and moral growth in the American South through the eyes of Scout Finch."
+    },
+    {
+      "id": "3",
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "slug": "the-catcher-in-the-rye",
+      "description": "A coming-of-age novel that follows the experiences of Holden Caulfield as he navigates the challenges of adolescence in New York City."
+    },
+    {
+      "id": "4",
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "slug": "dune",
+      "description": "A science fiction epic set in a distant future where noble families control planets and a valuable substance known as 'spice.'"
+    },
+    {
+      "id": "5",
+      "title": "Jane Eyre",
+      "author": "Charlotte Brontë",
+      "slug": "jane-eyre",
+      "description": "A classic novel that follows the life of the orphan Jane Eyre as she becomes a governess and faces challenges and romance."
+    },
+    {
+      "id": "6",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "slug": "the-great-gatsby",
+      "description": "A novel set in the Roaring Twenties, exploring themes of wealth, love, and the American Dream."
+    },
+    {
+      "id": "7",
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "slug": "harry-potter-and-the-sorcerers-stone",
+      "description": "The first book in the Harry Potter series, following the young wizard's adventures at Hogwarts School of Witchcraft and Wizardry."
+    },
+    {
+      "id": "8",
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "slug": "the-lord-of-the-rings",
+      "description": "A high-fantasy trilogy that follows the quest to destroy the One Ring and defeat the dark lord Sauron."
+    },
+    {
+      "id": "9",
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "slug": "frankenstein",
+      "description": "A classic Gothic novel that tells the story of Victor Frankenstein, who creates a creature through an unorthodox scientific experiment."
+    },
+    {
+      "id": "10",
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "slug": "the-alchemist",
+      "description": "A philosophical novel about Santiago, a shepherd boy, on a journey to discover his personal legend and the meaning of life."
+    }
+  ]
+}
