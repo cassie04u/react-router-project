@@ -2,6 +2,7 @@
   "book": [
     {
       "id": "1",
+      "img": "https://i.pinimg.com/474x/7e/97/40/7e9740054c1fa811bc0ed04f5b557831.jpg",
       "title": "The Hobbit",
       "author": "J.R.R. Tolkien",
       "slug": "the-hobbit",
@@ -9,6 +10,7 @@
     },
     {
       "id": "2",
+      "img": "https://i.pinimg.com/564x/f4/9b/f4/f49bf422414a1e49337b245634459f19.jpg",
       "title": "To Kill a Mockingbird",
       "author": "Harper Lee",
       "slug": "to-kill-a-mockingbird",
@@ -16,6 +18,8 @@
     },
     {
       "id": "3",
+      "img": "https://i.pinimg.com/564x/d3/4d/c1/d34dc16977d5a06b31fa0316e6a574f0.jpg",
+
       "title": "The Catcher in the Rye",
       "author": "J.D. Salinger",
       "slug": "the-catcher-in-the-rye",
@@ -23,6 +27,8 @@
     },
     {
       "id": "4",
+      "img": "https://i.pinimg.com/564x/6f/da/12/6fda12353c26f58560535f05e866e524.jpg",
+
       "title": "Dune",
       "author": "Frank Herbert",
       "slug": "dune",
@@ -30,6 +36,8 @@
     },
     {
       "id": "5",
+      "img": "https://i.pinimg.com/474x/62/20/61/62206157c124f0926239bdca171f4c96.jpg",
+
       "title": "Jane Eyre",
       "author": "Charlotte Brontë",
       "slug": "jane-eyre",
@@ -37,6 +45,8 @@
     },
     {
       "id": "6",
+      "img": "https://i.pinimg.com/474x/52/98/ab/5298ab7552959060a2b16d11a4db9b87.jpg",
+
       "title": "The Great Gatsby",
       "author": "F. Scott Fitzgerald",
       "slug": "the-great-gatsby",
@@ -44,6 +54,8 @@
     },
     {
       "id": "7",
+      "img": "https://i.pinimg.com/564x/0b/db/82/0bdb82271ac0e04342516fc8b110be59.jpg",
+
       "title": "Harry Potter and the Sorcerer's Stone",
       "author": "J.K. Rowling",
       "slug": "harry-potter-and-the-sorcerers-stone",
@@ -51,6 +63,8 @@
     },
     {
       "id": "8",
+      "img": "https://i.pinimg.com/474x/6e/03/1e/6e031e7c118ce22dc277f298e35d0cc3.jpg",
+
       "title": "The Lord of the Rings",
       "author": "J.R.R. Tolkien",
       "slug": "the-lord-of-the-rings",
@@ -58,6 +72,8 @@
     },
     {
       "id": "9",
+      "img": "https://i.pinimg.com/474x/75/73/18/757318cfb0b5d4e6120a1b72d2fa0b50.jpg",
+
       "title": "Frankenstein",
       "author": "Mary Shelley",
       "slug": "frankenstein",
@@ -65,6 +81,7 @@
     },
     {
       "id": "10",
+      "img": "https://i.pinimg.com/474x/87/47/99/8747993570a2acf91a2c3f95ea7763e0.jpg",
       "title": "The Alchemist",
       "author": "Paulo Coelho",
       "slug": "the-alchemist",

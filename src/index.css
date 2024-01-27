@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+  .main {
+    @apply container px-14 py-6 bg-[#fbf2e9]  h-[3000px] mx-auto;
+  }
+}
