@@ -14,9 +14,11 @@ const NavComponent = () => {
         <li className=" text-lg text-[#144872] font-bold hover:text-[#ffb559] duration-200">
           <Link to={"/"}>Home</Link>
         </li>
+
+        
         
         <li className=" text-lg text-[#144872] font-bold hover:text-[#ffb559] duration-200">
-          <Link to={"/sign-in"}>
+          <Link to={"/profile"}>
             <svg
               xmlns="http://www.w3.org/2000/svg"
               fill="none"
@@ -32,6 +34,10 @@ const NavComponent = () => {
               />
             </svg>
           </Link>
+        </li>
+
+        <li className=" text-[15px] text-[#144872] font-semibold hover:text-[#ffb559] duration-200">
+          <Link to={"/register"}>Sign Up</Link>
         </li>
         {/* <li>
           <Link>Book1</Link>
