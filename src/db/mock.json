@@ -19,7 +19,6 @@
     {
       "id": "3",
       "img": "https://i.pinimg.com/564x/d3/4d/c1/d34dc16977d5a06b31fa0316e6a574f0.jpg",
-
       "title": "The Catcher in the Rye",
       "author": "J.D. Salinger",
       "slug": "the-catcher-in-the-rye",
@@ -28,7 +27,6 @@
     {
       "id": "4",
       "img": "https://i.pinimg.com/564x/6f/da/12/6fda12353c26f58560535f05e866e524.jpg",
-
       "title": "Dune",
       "author": "Frank Herbert",
       "slug": "dune",
@@ -37,7 +35,6 @@
     {
       "id": "5",
       "img": "https://i.pinimg.com/474x/62/20/61/62206157c124f0926239bdca171f4c96.jpg",
-
       "title": "Jane Eyre",
       "author": "Charlotte Brontë",
       "slug": "jane-eyre",
@@ -46,7 +43,6 @@
     {
       "id": "6",
       "img": "https://i.pinimg.com/474x/52/98/ab/5298ab7552959060a2b16d11a4db9b87.jpg",
-
       "title": "The Great Gatsby",
       "author": "F. Scott Fitzgerald",
       "slug": "the-great-gatsby",
@@ -55,7 +51,6 @@
     {
       "id": "7",
       "img": "https://i.pinimg.com/564x/0b/db/82/0bdb82271ac0e04342516fc8b110be59.jpg",
-
       "title": "Harry Potter and the Sorcerer's Stone",
       "author": "J.K. Rowling",
       "slug": "harry-potter-and-the-sorcerers-stone",
@@ -64,7 +59,6 @@
     {
       "id": "8",
       "img": "https://i.pinimg.com/474x/6e/03/1e/6e031e7c118ce22dc277f298e35d0cc3.jpg",
-
       "title": "The Lord of the Rings",
       "author": "J.R.R. Tolkien",
       "slug": "the-lord-of-the-rings",
@@ -73,7 +67,6 @@
     {
       "id": "9",
       "img": "https://i.pinimg.com/474x/75/73/18/757318cfb0b5d4e6120a1b72d2fa0b50.jpg",
-
       "title": "Frankenstein",
       "author": "Mary Shelley",
       "slug": "frankenstein",
@@ -86,6 +79,45 @@
       "author": "Paulo Coelho",
       "slug": "the-alchemist",
       "description": "A philosophical novel about Santiago, a shepherd boy, on a journey to discover his personal legend and the meaning of life."
+    }
+  ],
+  "user": [
+    {
+      "id": "1",
+      "username": "Dra",
+      "email": "ayem15708@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "2",
+      "username": "Terry",
+      "email": "shinthantmin32@gmail.com",
+      "password": "345678"
+    },
+    {
+      "id": "559e",
+      "email": "test@gmail.com",
+      "password": "Amt2023$$$"
+    },
+    {
+      "id": "4b0d",
+      "email": "test@gmail.com",
+      "password": "Test2023$$$"
+    },
+    {
+      "id": "9122",
+      "email": "ayemya2124@gmail.com",
+      "password": "Amt2023$$$"
+    },
+    {
+      "id": "8b55",
+      "email": "dra234@gmail.com",
+      "password": "123980$$"
+    },
+    {
+      "id": "1161",
+      "email": "dra@gmail.com",
+      "password": "2324$$"
     }
   ]
 }

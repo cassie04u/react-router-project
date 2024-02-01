@@ -16,7 +16,7 @@ const NavComponent = () => {
         </li>
         
         <li className=" text-lg text-[#144872] font-bold hover:text-[#ffb559] duration-200">
-          <Link to={"/profile"}>
+          <Link to={"/sign-in"}>
             <svg
               xmlns="http://www.w3.org/2000/svg"
               fill="none"
