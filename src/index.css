@@ -4,6 +4,6 @@
 
 @layer components {
   .main {
-    @apply container px-14 py-6 bg-[#fbf2e9]  h-[3000px] mx-auto;
+    @apply container px-14 py-6 bg-[#fbf2e9] min-h-screen mx-auto;
   }
 }
